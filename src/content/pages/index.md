@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Moneer Rifai
 tagline: Cloud Developer
-featuredImage: /assets/steijn-leijzer-bf6w6qcevg0-unsplash-1-.jpg
+featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.webp
 cta:
   ctaText: Know more
   ctaLink: /about
